@@ -1,4 +1,3 @@
-import imp
 import json
 from pathlib import Path
 from json.decoder import JSONDecodeError
